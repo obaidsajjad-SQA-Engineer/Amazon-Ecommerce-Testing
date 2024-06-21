@@ -60,7 +60,7 @@ Search results relevant to the query should be displayed.
 **Expected Result:** 
 All product details should be accurate and clearly displayed.
  
-![Excel Screenshot](screenshots/product-details-teastcases.png)
+![Excel Screenshot](screenshots/product-details-testcases.png)
 
 ---
 
