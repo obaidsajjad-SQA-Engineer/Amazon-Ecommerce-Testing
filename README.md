@@ -25,7 +25,7 @@
 **Expected Result:** 
 The homepage should display all expected elements properly aligned and functioning.
  
-![Excel Screenshot](screenshots/1.png)
+![Excel Screenshot](screenshots/homepage-testcases.png)
 
 ---
 
@@ -43,7 +43,7 @@ The homepage should display all expected elements properly aligned and functioni
 **Expected Result:** 
 Search results relevant to the query should be displayed.
 
-![Excel Screenshot](screenshots/1.png)
+![Excel Screenshot](screenshots/search-testcases.png)
 
 ---
 
@@ -60,7 +60,7 @@ Search results relevant to the query should be displayed.
 **Expected Result:** 
 All product details should be accurate and clearly displayed.
  
-![Excel Screenshot](screenshots/1.png)
+![Excel Screenshot](screenshots/product-details-teastcases.png)
 
 ---
 
@@ -77,7 +77,7 @@ All product details should be accurate and clearly displayed.
 **Expected Result:** 
 The selected product should be added to the cart with correct quantity.
  
-![Excel Screenshot](screenshots/1.png)
+![Excel Screenshot](screenshots/payment-method-testcases.png)
 
 ---
 
@@ -94,7 +94,7 @@ The selected product should be added to the cart with correct quantity.
 **Expected Result:** 
 Checkout should proceed smoothly without errors, showing appropriate payment options.
  
-![Excel Screenshot](screenshots/1.png)
+![Excel Screenshot](screenshots/cart-testcases.png)
 
 ---
 
@@ -111,7 +111,7 @@ Checkout should proceed smoothly without errors, showing appropriate payment opt
 **Expected Result:** 
 All orders should be displayed with correct order information.
  
-![Excel Screenshot](screenshots/1.png)
+![Excel Screenshot](screenshots/myorders-testcases.png)
 
 ---
 
@@ -128,4 +128,4 @@ All orders should be displayed with correct order information.
 **Expected Result:** 
 Customer service options should be visible and accessible with details like waiting times.
  
-![Excel Screenshot](screenshots/1.png)
+![Excel Screenshot](screenshots/customer-service-testcases.png)
